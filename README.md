@@ -26,5 +26,8 @@ PS : 没链接的是还没开始写
 
 
  
- ### <a id="公众号">公众号，扫码关注呦</a>
-![image](https://github.com/schelling/iOSFamily/raw/master/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+ ### <a id="公众号">公众号，扫码关注有福利呦</a>
+
+<p align="center">
+  <img src="https://github.com/schelling/iOSFamily/raw/master/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width='300' height='300'>
+  </p>
