@@ -12,7 +12,7 @@
 # 目录 
 PS : 没链接的是还没开始写
 
-- UI视图
+- **UI视图**
 
   - [iOS事件传递和视图响应流程](https://mp.weixin.qq.com/s/xc-Yeis2j74Yp0hZPAzgdg)
   - [iOS如何监控界面卡顿掉帧，如何优化](https://mp.weixin.qq.com/s/gMx8dkYYw-7-ornybH0GPQ)
@@ -21,25 +21,25 @@ PS : 没链接的是还没开始写
     - 离屏渲染
   - TableView的实现和优化技巧
   
-- Objective-C语言
+- **Objective-C语言**
   - 考考property属性修饰符
   - 分类Category和扩展Extension的区别？
   - KVO和KVC的实现原理
 
-- Runtime 
+- **Runtime** 
   - 类对象、元类对象
   - 类对象的底层实现
   - 消息传递和消息转发
   - Method Swizzling
  
-- Block
+- **Block**
   - Block的本质
   - Block是如何截获变量的？
   - 什么情况使用__block修饰符？
   - 如何避免Block循环引用
   - Block的优缺点
  
-- 内存管理
+- **内存管理**
   - 数据存储空间和数据模型
   - 内存管理原理
      - 引用计数
@@ -49,14 +49,14 @@ PS : 没链接的是还没开始写
   - ARC&MRC
   - 循环引用
   - 内存泄露检查
-- 数据存储
-  - 数据存储方案
-    - KeyChain
-    - 文件(File)
-    - DB(数据库)
+ - 数据存储
+   - 数据存储方案
+     - KeyChain
+     - 文件(File)
+     - DB(数据库)
   - 沙盒目录
 
-- 通知
+- **通知**
 	- 关键类结构体
 	- 注册通知
 	- 发送通知
@@ -64,13 +64,13 @@ PS : 没链接的是还没开始写
 	- 异步通知
 	- 主线程响应通知
 
-- 多线程
+- **多线程**
    - GCD
    - NSOperation
    - NSThread
    - 多线程和锁
 
-- 崩溃和性能优化
+- **崩溃和性能优化**
 	- APP启动流程和启动优化
 	- 包大小优化
 	- 网络优化
@@ -80,24 +80,24 @@ PS : 没链接的是还没开始写
 	   - 信号不可捕获
 	   - 如何防护崩溃
 
-- 第三方开源库
+- **第三方开源库**
 	- CocoaPods
 	- SDWebImage
 	- AFNetworking
 	- Texture(ASDK) 
 	   
-- 架构/框架
+- **架构/框架**
 	- 图片缓存框架设计
 	- 埋点整体框架设计
 	- 客户端整体架构
 	- 模块化、组件化、插件化
 
-- 热门前沿
+- **热门前沿**
 	- React Native
 	- Fultter
 	- 动态化方案分析
 
-- 设计模式
+- **设计模式**
    - 六大设计原则
    - 单例模式
    - 适配器模式
@@ -106,7 +106,7 @@ PS : 没链接的是还没开始写
    - 桥接模式
    - MVC&MVVM&MVP
    
-- 算法
+- **算法**
 	- 链表是否有环
 	- 链表反转
 	- 有序数组合并
