@@ -1,5 +1,5 @@
 
-根据文章更新持续更新
+根据文章更新持续更新链接
 
  我会从下面思维导图中的知识点去写这个系列，可能有想不到的知识点，大家可以去 [【公众号】](#公众号) 获取或者提意见(别忘记给个星✨哟)
 关注公众号可以获取整理好的最新版iOS面试题和答案和iOS学习资料。 原创文章每周更新文章，公众号首发文章，比博客早一到两篇。
@@ -23,8 +23,9 @@ PS : 没链接的是还没开始写
   
 - **Objective-C语言**
   - 考考property属性修饰符
-  - 分类Category和扩展Extension的区别？
+  - [分类Category使用、底层原理、类扩展、关联对象](https://mp.weixin.qq.com/s/3_dlmEcFK09xPMAOBW3Jow)
   - KVO和KVC的实现原理
+  - 代理Delegate
 
 - **Runtime** 
   - 类对象、元类对象
@@ -33,11 +34,11 @@ PS : 没链接的是还没开始写
   - Method Swizzling
  
 - **Block**
-  - Block的本质
-  - Block是如何截获变量的？
+  - Block介绍和本质
+  - Block是如何捕获变量的？
   - 什么情况使用__block修饰符？
   - 如何避免Block循环引用
-  - Block的优缺点
+  - Block的应用
  
 - **内存管理**
   - 数据存储空间和数据模型
